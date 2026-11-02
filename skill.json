@@ -1,0 +1,22 @@
+{
+  "name": "genpark-personal-agent-ventilatory-equivalent-ve-vco2-efficiency-skill",
+  "version": "1.0.0",
+  "description": "Deterministic personal agent skill for evaluating ventilatory efficiency, VE/VCO2 slope linear regression, pulmonary dead space fraction, and V-slope anaerobic threshold detection.",
+  "author": "GenPark Autonomous Agents Ecosystem",
+  "license": "MIT",
+  "tags": [
+    "personal-agent",
+    "ai-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "python",
+    "zero-dependency",
+    "wellness",
+    "productivity",
+    "production-ready"
+  ],
+  "entrypoint": "mcp_server.py"
+}
